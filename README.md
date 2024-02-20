@@ -2,9 +2,8 @@
 
 
 -🔭 I have a passion for problems solving  and turning ideas into reality with code!<br>
--👨‍👩‍👧 I spend most of time learning to code or hanging out with my family.<br>
+-👨‍👩‍👧 I spend most of time learning to code and losing my mind over my code not working.<br>
 -📖 I am currently taking online courses to advance my skills as a developer.<br>
--⚡ In my freetime I enjoy working out & playing the piano and watching shows.<br>
 -📫 How to reach me: **hugopereira8814@gmail.com**<br>
 
 # 💻Tech Stack i'm working towards:
