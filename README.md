@@ -1,7 +1,7 @@
 <h1 align="center">Hey There <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
 
 
--🔭 I have a passion for problems solving  and turning ideas into reality with code!<br>
+-🔭 <br>
 -👨‍👩‍👧 I spend most of time learning to code and losing my mind over my code not working.<br>
 -📖 I am currently taking online courses to advance my skills as a developer.<br>
 -📫 How to reach me: **hugopereira8814@gmail.com**<br>
