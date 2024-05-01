@@ -2,7 +2,7 @@
 
 
 
--📖 I am currently taking online courses to advance my skills as a developer.<br>
+-
 -📫 How to reach me: **hugopereira8814@gmail.com**<br>
 
 # 💻My Tech Stack :
