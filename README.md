@@ -3,7 +3,14 @@
 📫 How to reach me: **hugopereira8814@gmail.com**<br>
 
 # 💻My Tech Stack :
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![GIT](https://img.shields.io/badge/git-%2320232a.svg?style=for-the-badge&logo=git&logoColor=%red)
+![Git](https://img.shields.io/badge/git-%23323330.svg?style=for-the-badge&logo=git&logoColor=%23F05033)
+![HTML5](https://img.shields.io/badge/html5-%23323330.svg?style=for-the-badge&logo=html5&logoColor=%23E34F26)
+![CSS3](https://img.shields.io/badge/css3-%23323330.svg?style=for-the-badge&logo=css3&logoColor=%231572B6)
+![SASS](https://img.shields.io/badge/SASS-%23323330.svg?style=for-the-badge&logo=SASS&logoColor=hotpink)
+![Tailwind](https://img.shields.io/badge/tailwind-%23323330.svg?style=for-the-badge&logo=tailwindcss&logoColor=007acc)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![React](https://img.shields.io/badge/-React-%23323330?style=for-the-badge&labelColor=%23323330&logo=react&logoColor=61DBFB)
+![NodeJS](https://img.shields.io/badge/-NodeJS-%23323330?style=for-the-badge&labelColor=%23323330&logo=node.js&logoColor=green)
 
 # 📊 GitHub Stats:
 
@@ -14,4 +21,8 @@
 [![](https://visitcount.itsvg.in/api?id=hugo8814&icon=0&color=0)](https://visitcount.itsvg.in)
 #
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+
+
+
+
